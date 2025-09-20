@@ -53,3 +53,11 @@ type CartItem = {
     qty: number
 }
 export type { AdminProductType, AddProductType, AdminUserType, OrderType, Product, CartItem }
+
+//   "id": "string",
+//   "name": "string",
+//   "description": "string",
+//   "category": "string",
+//   "tags": "string",
+//   "price": 0,
+//   "stock": 0

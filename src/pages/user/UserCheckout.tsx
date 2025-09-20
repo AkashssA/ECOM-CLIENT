@@ -1,5 +1,4 @@
 
-
 const UserCheckout = () => {
   return (
     <div>UserCheckout</div>
